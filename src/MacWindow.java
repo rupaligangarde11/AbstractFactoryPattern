@@ -1,6 +1,4 @@
-import java.awt.*;
-
-public class MacWindow implements Window {
+class MacWindow implements Window {
 
     public void setTitle() {
 

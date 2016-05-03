@@ -1,0 +1,6 @@
+
+interface AbstractWidgetFactory {
+    Window createWindow();
+}
+
+

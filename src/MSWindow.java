@@ -1,5 +1,5 @@
 
-public class MSWindow implements Window{
+class MSWindow implements Window{
 
     public void setTitle() {
 
